@@ -1,14 +1,4 @@
-# This is an H1 hedaer
-## H2 Header
-### H3
-#### H4
-##### H5
-###### H6
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-``` C++
-int a = 10;
-int b = 20;
-int area;
-area = a * b;
-cout<<area;
-```
+- [x] This is list box 1
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
